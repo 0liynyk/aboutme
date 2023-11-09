@@ -1,6 +1,4 @@
-# 💫 About Me:
-I'm curetntly working on manage and support service for detecting open source dependencies and descripe license<br>
-
+I am Roman Oliinyk, currently employed at Ericsson, where I am actively involved in the development of FOSSA, an open-source management tool. My role primarily revolves around overseeing and supporting the service in its capability to detect open-source dependencies and provide detailed license descriptions.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/roma.oliynyk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/roman-oliinyk-dev/) 
